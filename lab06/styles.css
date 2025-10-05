@@ -1,0 +1,11 @@
+p {
+    font-family: "Verdana", sans-serif;
+}
+h1 {font-size: 3em;}
+h2 {font-size: 2em;}
+h1, h2{
+    color: rgb(255, 51, 51);
+}
+.special {color: rgb(9, 0, 128)}  
+.evenrow {background-color:rgb(75, 127, 143)}
+
