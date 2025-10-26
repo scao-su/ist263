@@ -1,0 +1,102 @@
+h1,h2{
+    color: #f70000;
+}
+
+p{
+    color:#000000
+}
+
+a{
+    color:#f100f1
+}
+body{
+    background-color: #ffffff;
+    
+}
+nav {
+    background-color: #2e83f1;
+}
+
+h1{
+  text-align: center;
+}
+.a{
+  padding: 1.5rem; 
+}
+.main{
+  display: flex;          
+  gap: 1.25rem;           
+  align-items: flex-start; 
+  padding: 1.5rem; 
+}
+i{
+  font-size: 3rem;
+}
+.icon{
+  display: flex;
+  margin-top: 5rem;
+  min-width: 0; 
+  flex-basis: 75%;
+  justify-content: space-between;
+}
+
+.container{
+  padding: 1.5rem; 
+  background-color: #2264a7;
+  border-radius: 12px;
+  flex-basis: 25%;
+}
+nav a {color:#00c3ff}
+
+nav a:hover {background-color: #34F7F0;}
+
+nav{padding: 10px}
+nav {margin-bottom: 30px}
+.row {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.box {
+  flex: 1 1 0;
+  background-color: #f7f9fc;
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+main {
+  padding: 1.25rem;
+}
+
+.form form,
+.map iframe {
+  width: 100%;
+  display: block;
+}
+
+.bottom .form { flex: 1.3; }
+
+
+form label {
+  display: block;
+  margin-top: 0.75rem;
+  font-weight: 600;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 0.6rem;
+  margin-top: 0.25rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+input[type = "submit"]{
+  background-color: #0066cc;
+}
+
+input[type="submit"]:hover {
+  background-color: #004999;
+}
