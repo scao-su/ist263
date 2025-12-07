@@ -1,5 +1,11 @@
 h1,h2{
     color: #f70000;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 100;
 }
 
 p{
